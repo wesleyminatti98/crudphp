@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
 
     <title>Cadastro</title>
   </head>
@@ -68,6 +68,6 @@ if (isset($_REQUEST["page"])) {
 </div>    
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
   </body>
 </html>
